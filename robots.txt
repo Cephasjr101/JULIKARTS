@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julikart.ok.kimi.link/sitemap.xml
